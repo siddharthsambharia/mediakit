@@ -3,10 +3,12 @@ import Img1 from '../images/Mockup.png'
 
 function Features() {
   return (
+
+
     <div id='features'>
-
-       
-
+        <div className='flex place-content-center mb-16'>
+<div className='text-6xl text-center px-2 font-serif'> Features</div><div className='text-6xl text-purple-600'>101</div>
+</div>
 <div className='flex flex-col pt-8 '>
 
 <div className='flex flex-wrap place-content-evenly p-4 '> 
