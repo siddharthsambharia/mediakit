@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mediakit/static/css/main.b1ddf56b.css",
+    "main.js": "/mediakit/static/js/main.723ba0da.js",
+    "static/js/787.544dbde8.chunk.js": "/mediakit/static/js/787.544dbde8.chunk.js",
+    "static/media/Mockup.png": "/mediakit/static/media/Mockup.90dfe111ba0800c14e2e.png",
+    "index.html": "/mediakit/index.html",
+    "main.b1ddf56b.css.map": "/mediakit/static/css/main.b1ddf56b.css.map",
+    "main.723ba0da.js.map": "/mediakit/static/js/main.723ba0da.js.map",
+    "787.544dbde8.chunk.js.map": "/mediakit/static/js/787.544dbde8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ddf56b.css",
+    "static/js/main.723ba0da.js"
+  ]
+}
