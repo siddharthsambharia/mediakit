@@ -34,6 +34,8 @@ function Navbar() {
 
 {/* 
       <div className={${sticky ? 'sticky'}}> </div> */}
+
+      
                             <div className='md:hidden '>
                                 <div className='flex place-content-start'>
                                     <div className='flex-1 mx-4 mt-4'>Logo</div>

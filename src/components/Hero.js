@@ -38,13 +38,13 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div className=" text-1xl py-1 md:text-2xl md:py-2 mx-20 md:mx-80">
+        <div className=" text-1xl py-1 md:text-2xl md:py-2 mx-8 md:mx-20 md:mx-80">
           Show what you do in a way that gets people to say "yes"{" "}
         </div>
 
         <div className="md:mt-8 mt-4">
           <form
-            className=" bg-white font-sans text-1xl py-2 px-2 rounded-full border-black"
+            className=" bg-white font-sans text-1xl py-2 px-3 rounded-full border-black"
             action="https://formspree.io/f/mzbwvbnq"
             method="POST"
           >

@@ -57,12 +57,12 @@ function Features() {
           </div>
         </div>
 
-        <div className="flex flex-wrap place-content-evenly p-6 md:py-16 md:px-12 ">
+        <div className="flex flex-wrap place-content-evenly pt-3 px-3 md:py-16 md:px-12 ">
           <div className="flex flex-col mx-3  md:basis-1/4">
-            <div className=" text-6xl md:text-6xl inline-flex ">
+            <div className=" text-3xl md:text-6xl inline-flex ">
               Share via DM
             </div>
-            <div className="text-1xl md:text-3xl py-4 ">
+            <div className="text-1xl md:text-3xl ">
   
               Share your media kits, epks and resumes within seconds as a link
               or pdf.
