@@ -27,28 +27,32 @@ function Navbar() {
 
 
         
-      {/* <div className='hidden md:flex '> */}
+
       <div className='width'>
-        {/* <div className='pt-8 bg-blue-700'></div> */}
       </div>
+
+     
+                   
+
 
 {/* 
       <div className={${sticky ? 'sticky'}}> </div> */}
 
-      
-                            <div className='md:hidden '>
+{/*                           
+                            <div className='md:hidden'>
                                 <div className='flex place-content-start'>
                                     <div className='flex-1 mx-4 mt-4'>Logo</div>
                                     <div className='mx-4 mt-4'>Sign Up</div>
                                 </div>
-                            </div>
+                            </div> */}
+                          
 
-                            
-                    <div className='circle'></div>
+                          <div className='circle'></div>
+                    
                     {/* </div> */}
                       
-                        <div className=' h-16  mx-16 '>
-
+                        <div className=' md:h-16  md:mx-16 '>
+                <div className='navbarhidden'>
                 <div className='navbar'>
                 <div className='flex justify-content px-4 py-4 text-white md:sticky md:top-0'>
                                 <div className='flex-1'>berry</div>
@@ -63,6 +67,7 @@ function Navbar() {
                                     </div> */}
                                 </div>
 
+                            </div>
                             </div>
                             </div>
 

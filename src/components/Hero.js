@@ -23,7 +23,17 @@ function Hero() {
 
   return (
     <div>
-      <div className="flex flex-col place-items-center py-4 md:py-12">
+   
+                          
+   <div className='md:hidden pb-4 px-2'>
+                                <div className='flex place-content-start text-white'>
+                                    <div className='flex-1 mx-4 mt-4'>berry</div>
+                                    <div className='mx-4 mt-4'><a href='mailto:name@email.com'>Contact Us</a></div>
+                                </div>
+                            </div> 
+
+
+      <div className="flex flex-col place-items-center md:py-12">
         <div className="text-2xl md:py-2 md:text-6xl">
           {/* <div className="wrapper"> */}
 
@@ -32,14 +42,13 @@ function Hero() {
             <div className="words">
               <span>creator</span>
               <span>designer</span>
-              <span>coder</span>
+              <span>editor</span>
               <span>freelancer</span>
-              <span>writer</span>
             </div>
           </div>
         </div>
         <div className=" text-1xl py-1 md:text-2xl md:py-2 mx-8 md:mx-20 md:mx-80">
-          Show what you do in a way that gets people to say "yes"{" "}
+          Show what you do in a way that gets people to say "yes" ✨
         </div>
 
         <div className="md:mt-8 mt-4">
@@ -70,7 +79,7 @@ function Hero() {
         {/* <button className='rounded-sm bg-blue-500 font-sans text-1xl py-1 md:text-2xl md:py-2 mx-4 px-8 mt-4 md:mt-16 rounded-md' id='signup'>Sign-up</button> */}
       </div>
       <div className="flex flex-col place-items-center">
-        <div className=" items-center">
+        <div className=" items-center pt-6">
           <label
             for="large-toggle"
             class="inline-flex relative items-center cursor-pointer"
@@ -84,14 +93,14 @@ function Hero() {
               onClick={changeImage}
             ></input>
 
-            <div class="w-44 h-8 bg-white peer-focus:ring-4
+            <div class="w-44 h-8 bg-black peer-focus:ring-4
              peer-focus:ring-purple-400 rounded-full peer peer-checked:after:translate-x-full
               peer-checked:after:border-white after:absolute 
-              after:top-0.5 after:bg-purple-600 after:border-gray-300 
+              after:top-0.5 after:bg-white after:border-gray-300 
               after:border after:rounded-full after:h-7 after:w-[86px] after:transition-all
-               peer-checked:bg-white ">
+               peer-checked:bg-black ">
 
-            <div className="flex place-content-between px-2 py-1 font-medium text-black">
+            <div className="flex place-content-between px-2 py-1 font-medium text-white">
               <div>Creator</div>  <div>Creative</div>
               </div> 
               </div>

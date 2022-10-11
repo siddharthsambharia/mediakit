@@ -18,11 +18,11 @@ function Features() {
         <div className="flex flex-wrap place-content-evenly pt-4 pb-16  ">
           <div className="flex flex-col mx-4  md:basis-1/4">
             <div className=" text-3xl md:text-6xl py-1 ">
-              Showcase your Metrics
+            Get verified for your work 
             </div>
             <div className="text-1xl md:text-3xl py-4">
-              Get deals and reports done instantly by showing key metrics. Focus
-              on what you do best while we highlight why you are the best
+            Get acknowledged by creators for your work and make a kick ass
+              portfolio
             </div>
           </div>
 
@@ -47,25 +47,25 @@ function Features() {
           <div className="flex flex-col mx-4  md:basis-1/4">
             <div className=" text-3xl md:text-6xl py-1 ">
     
-              Get verified for your work
+            Share via DM 
             </div>
             <div className="text-1xl md:text-3xl py-4">
-        
-              Get acknowledged by creators for your work and make a kick ass
-              portfolio
+              Share your media kits, epks and resumes within seconds as a link
+              or pdf.
+              
             </div>
           </div>
         </div>
 
         <div className="flex flex-wrap place-content-evenly pt-3 px-3 md:py-16 md:px-12 ">
-          <div className="flex flex-col mx-3  md:basis-1/4">
-            <div className=" text-3xl md:text-6xl inline-flex ">
-              Share via DM
+          <div className="flex flex-col mx-3 md:basis-1/4">
+            <div className=" text-3xl md:text-6xl inline-flex  pb-2">
+              Showcase your Metrics
             </div>
             <div className="text-1xl md:text-3xl ">
   
-              Share your media kits, epks and resumes within seconds as a link
-              or pdf.
+            Get deals and reports done instantly by showing key metrics.<br></br> Focus
+              on what you do best while we highlight why you are the best
             </div>
           </div>
 
