@@ -25,15 +25,15 @@ function Hero() {
     <div>
    
                           
-   <div className='md:hidden pb-4 px-2'>
+   {/* <div className='md:hidden pb-4 px-2'>
                                 <div className='flex place-content-start text-white'>
                                     <div className='flex-1 mx-4 mt-4'>berry</div>
                                     <div className='mx-4 mt-4'><a href='mailto:name@email.com'>Contact Us</a></div>
                                 </div>
-                            </div> 
+                            </div>  */}
 
 
-      <div className="flex flex-col place-items-center md:py-12">
+      <div className="flex flex-col place-items-center py-8 md:py-12">
         <div className="text-2xl md:py-2 md:text-6xl">
           {/* <div className="wrapper"> */}
 

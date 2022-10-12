@@ -30,6 +30,7 @@ function Navbar() {
 
       <div className='width'>
       </div>
+   
 
      
                    
@@ -59,13 +60,13 @@ function Navbar() {
 
                                 <div className='flex'>
                                     <div><a href='mailto:name@email.com'>Contact Us</a></div>
-                                    {/* <div className='px-4'>
+                                  <div className='px-4'>
                                         <Link to="features" spy={true} smooth={true} offset={-4} duration={1000}  >
                                         Features </Link></div>
                                     <div className='px-4'>  <Link to="signup" spy={true} smooth={true} offset={-100} duration={500} >
                                     Sign-Up</Link>
-                                    </div> */}
-                                </div>
+                                    </div> 
+                                </div> 
 
                             </div>
                             </div>

@@ -5,8 +5,8 @@ import Navbar from './Navbar.js'
 function Footer() {
   return (
     <div className='bg-[#1F1F24] py-24'>
-      <div className='text-7xl text-center text-white'> Umm.. </div>
-      <div className='text-2xl text-center text-white'> Are you still thinking? Sign-up and 10x your opportunities now  
+      <div className='md:text-7xl text-4xl text-center text-white'> Umm.. </div>
+      <div className='md:text-2xl px-4 text-center text-white'> Are you still thinking? Sign-up and 10x your opportunities now  
 </div>  
 <div className='mx-auto flex place-content-center py-8'>
 <form
@@ -32,6 +32,10 @@ function Footer() {
               sign up
             </button>
           </form>
+          </div>
+
+          <div className='md:hidden'>
+            <div className='text-center text-2xl text-white'><a href='mailto:name@email.com'>Contact Us</a></div>
           </div>
 
     </div>
