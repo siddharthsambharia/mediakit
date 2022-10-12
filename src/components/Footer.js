@@ -4,7 +4,7 @@ import Navbar from './Navbar.js'
 
 function Footer() {
   return (
-    <div className='bg-[#1F1F24] py-24'>
+    <div className='bg-[#1F1F24] py-24 font-CirculaBook'>
       <div className='md:text-7xl text-4xl text-center text-white'> Umm.. </div>
       <div className='md:text-2xl px-4 text-center text-white'> Are you still thinking? Sign-up and 10x your opportunities now  
 </div>  

@@ -3,6 +3,17 @@
 @tailwind utilities;
 
 
-* {
-  
-}
+@font-face {
+    font-family: "Circula-Std-Bold";
+    src: url("../public/fonts/Circular-Std-Bold.ttf");
+  }
+
+  @font-face {
+    font-family: "Circula-Std-Book";
+    src: url("../public/fonts/Circular-Std-Book.ttf");
+  }
+
+  @font-face {
+    font-family: "Circula-Std-Medium";
+    src: url("../public/fonts/Circular-Std-Medium.ttf");
+  }

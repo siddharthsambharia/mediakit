@@ -22,7 +22,7 @@ function Hero() {
 
 
   return (
-    <div>
+    <div className=" font-CirculaBook">
    
                           
    {/* <div className='md:hidden pb-4 px-2'>
@@ -37,7 +37,7 @@ function Hero() {
         <div className="text-2xl md:py-2 md:text-6xl">
           {/* <div className="wrapper"> */}
 
-          <div className="flex h-12 md:h-16">
+          <div className="flex h-12 md:font-normal md:h-16">
             <p>Digital identities for</p>
             <div className="words">
               <span>designer</span>
@@ -103,7 +103,7 @@ function Hero() {
               after:border after:rounded-full after:h-7 after:w-[86px] after:transition-all
                peer-checked:bg-black ">
 
-            <div className="flex place-content-between px-2 py-1 font-medium text-white">
+            <div className="flex place-content-between px-2 py-1 text-white">
               <div>Creator</div>  <div>Creative</div>
               </div> 
               </div>

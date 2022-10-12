@@ -4,7 +4,14 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        CirculaBold: ["Circula-Std-Bold", "sans-serif"],
+        CirculaBook: ["Circula-Std-Book", "sans-serif"],
+        CirculaMedium: ["Circula-Std-Medium", "sans-serif"],
+    
+      },
+    },
   },
   plugins: [],
 }
