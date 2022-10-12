@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a590cc5.css",
-    "main.js": "/static/js/main.d9db6c54.js",
+    "main.css": "/static/css/main.97998184.css",
+    "main.js": "/static/js/main.c5522a8d.js",
     "static/js/787.e698a214.chunk.js": "/static/js/787.e698a214.chunk.js",
     "static/media/mkt5.svg": "/static/media/mkt5.d1e0ef6f42f2e68f7a13a45afb32b68c.svg",
     "static/media/f2.svg": "/static/media/f2.e653a0064f0854d7c018e89f500ccbd9.svg",
@@ -9,13 +9,16 @@
     "static/media/f3.svg": "/static/media/f3.fcd766eebd73f54f0ce1f444b52f2130.svg",
     "static/media/f3m.svg": "/static/media/f3m.c6aa37aa550ce19ba636cf0ff095b9d2.svg",
     "static/media/mkt3.svg": "/static/media/mkt3.34746554fb5e116594e0119b367d1804.svg",
+    "static/media/Circular-Std-Medium.ttf": "/static/media/Circular-Std-Medium.3fcb6535e39024a69e30.ttf",
+    "static/media/Circular-Std-Bold.ttf": "/static/media/Circular-Std-Bold.70b1780ab02d1d1ac189.ttf",
+    "static/media/Circular-Std-Book.ttf": "/static/media/Circular-Std-Book.ce1731670f4779d9c951.ttf",
     "index.html": "/index.html",
-    "main.9a590cc5.css.map": "/static/css/main.9a590cc5.css.map",
-    "main.d9db6c54.js.map": "/static/js/main.d9db6c54.js.map",
+    "main.97998184.css.map": "/static/css/main.97998184.css.map",
+    "main.c5522a8d.js.map": "/static/js/main.c5522a8d.js.map",
     "787.e698a214.chunk.js.map": "/static/js/787.e698a214.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a590cc5.css",
-    "static/js/main.d9db6c54.js"
+    "static/css/main.97998184.css",
+    "static/js/main.c5522a8d.js"
   ]
 }
