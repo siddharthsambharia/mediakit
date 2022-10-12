@@ -40,10 +40,13 @@ function Hero() {
           <div className="flex h-12 md:h-16">
             <p>Digital identities for</p>
             <div className="words">
-              <span>creator</span>
               <span>designer</span>
-              <span>editor</span>
+              <span>creator</span>
               <span>freelancer</span>
+              <span>editor</span>
+              <span>writer</span>
+              
+              
             </div>
           </div>
         </div>
