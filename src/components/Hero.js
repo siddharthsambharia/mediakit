@@ -50,7 +50,7 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div className=" text-1xl py-1 px-16 md:text-3xl md:py-2 mx-8 md:px-0  md:mx-20 md:mx-80">
+        <div className=" text-1xl py-1 px-8 md:text-3xl md:py-2 mx-8 md:px-0  md:mx-20 md:mx-80">
           Show what you do in a way that gets people to say "yes"✨
         </div>
 
