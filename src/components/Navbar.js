@@ -56,10 +56,10 @@ function Navbar() {
                 <div className='navbarhidden'>
                 <div className='navbar'>
                 <div className='flex justify-content px-4 py-4 text-white md:sticky md:top-0'>
-                                <div className='flex-1'>berry</div>
+                                <div className='flex-1 text-2xl'>berry</div>
 
                                 <div className='flex'>
-                                    <div><a href='mailto:name@email.com'>Contact Us</a></div>
+                                    <div className='text-white font-medium text-1xl'> <button className='bg-black  p-2 border-full rounded-md'><a href='mailto:Useberryy@gmail.com'>Contact Us</a></button></div>
                                   {/* <div className='px-4'>
                                         <Link to="features" spy={true} smooth={true} offset={-4} duration={1000}  >
                                         Features </Link></div>

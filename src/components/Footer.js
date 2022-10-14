@@ -35,7 +35,7 @@ function Footer() {
           </div>
 
           <div className='md:hidden'>
-            <div className='text-center text-2xl text-white'><a href='mailto:name@email.com'>Contact Us</a></div>
+            <div className='text-center text-2xl text-white'><a href='mailto:Useberryy@gmail.com'>Contact Us</a></div>
           </div>
 
     </div>

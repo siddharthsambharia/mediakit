@@ -16,9 +16,9 @@ function Features() {
         <div className="md:text-6xl text-4xl text-purple-600">101</div>
       </div>
       <div className="flex flex-col pt-2 md:pt-8 font-CirculaBook ">
-        <div className="flex flex-wrap place-content-evenly pt-4 pb-16  ">
+        <div className="flex flex-wrap place-content-evenly pt-4  ">
           <div className="flex flex-col mx-4  md:basis-1/4">
-            <div className=" text-3xl md:text-6xl py-1 ">
+            <div className=" text-3xl md:text-5xl py-1 ">
             Get verified for your work 
             </div>
             <div className="text-1xl md:text-3xl py-4">
@@ -36,7 +36,7 @@ function Features() {
           </div>
         </div>
 
-        <div className="flex flex-wrap-reverse place-content-evenly p-6  md:py-16 md:px-12 bg-[#E9E9E9]">
+        <div className="flex flex-wrap-reverse place-content-evenly p-6 pb-0  md:pt-16 md:pb-0 md:px-12 bg-[#E9E9E9]">
           <div className="">
             <img
               className="object-scale-down h-96 p-auto items "
@@ -46,7 +46,7 @@ function Features() {
           </div>
 
           <div className="flex flex-col mx-4  md:basis-1/4">
-            <div className=" text-3xl md:text-6xl py-1 ">
+            <div className=" text-3xl md:text-5xl py-1 ">
     
             Share via DM 
             </div>
@@ -60,13 +60,13 @@ function Features() {
 
         <div className="flex flex-wrap place-content-evenly pt-3 px-3 md:py-16 md:px-12 ">
           <div className="flex flex-col mx-3 md:basis-1/4">
-            <div className=" text-3xl md:text-6xl inline-flex  pb-2">
+            <div className=" text-3xl md:text-5xl inline-flex  pb-2">
               Showcase your Metrics
             </div>
             <div className="text-1xl md:text-3xl ">
   
-            Get deals and reports done instantly by showing key metrics.<br></br> Focus
-              on what you do best while we highlight why you are the best
+            Get deals done instantly by showing key metrics.<br className="pb-1"></br> Focus
+              on creation while we do the best for you.
             </div>
           </div>
 

@@ -50,8 +50,8 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div className=" text-1xl py-1 md:text-2xl md:py-2 mx-8 md:mx-20 md:mx-80">
-          Show what you do in a way that gets people to say "yes" ✨
+        <div className=" text-1xl py-1 px-16 md:text-3xl md:py-2 mx-8 md:px-0  md:mx-20 md:mx-80">
+          Show what you do in a way that gets people to say "yes"✨
         </div>
 
         <div className="md:mt-8 mt-4">
@@ -75,7 +75,7 @@ function Hero() {
               className="md:text-lg hover:bg-gray-700 text-base py-1 md:px-3 px-1 bg-black font-normal text-white font-sans rounded-full  "
               type="submit" 
             >
-              sign up
+              Sign up
             </button>
           </form>
         </div>
@@ -96,11 +96,11 @@ function Hero() {
               onClick={changeImage}
             ></input>
 
-            <div class="w-44 h-8 bg-black peer-focus:ring-4
+            <div class="w-40 h-8 bg-black peer-focus:ring-4
              peer-focus:ring-purple-400 rounded-full peer peer-checked:after:translate-x-full
               peer-checked:after:border-white after:absolute 
-              after:top-0.5 after:bg-white after:border-gray-300 
-              after:border after:rounded-full after:h-7 after:w-[86px] after:transition-all
+              after:top-4 after:bg-white after:border-gray-300 
+              after:border after:rounded-full after:h-[2px] after:w-[76px] after:transition-all
                peer-checked:bg-black ">
 
             <div className="flex place-content-between px-2 py-1 text-white">
