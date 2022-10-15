@@ -117,14 +117,14 @@ function Hero() {
       {toggle ? (
        <img
        className="object-scale-down h-auto p-auto items"
-       src={Img1}
+       src={Img2}
        alt=""
      />
         ) : (
           <img
             className="inactive"
             className="object-scale-down h-auto p-auto items"
-            src={Img2}
+            src={Img1}
             alt=""
           />
         )}

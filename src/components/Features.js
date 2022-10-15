@@ -17,7 +17,7 @@ function Features() {
       </div>
       <div className="flex flex-col pt-2 md:pt-8 font-CirculaBook ">
         <div className="flex flex-wrap place-content-evenly pt-4  ">
-          <div className="flex flex-col mx-4  md:basis-1/4">
+          <div className="flex flex-col mx-20 md:mx-4 md:basis-1/4">
             <div className=" text-3xl md:text-5xl py-1 ">
             Get verified for your work 
             </div>
@@ -45,7 +45,7 @@ function Features() {
             />
           </div>
 
-          <div className="flex flex-col mx-4  md:basis-1/4">
+          <div className="flex flex-col mx-12 md:mx-4  md:basis-1/4">
             <div className=" text-3xl md:text-5xl py-1 ">
     
             Share via DM 
@@ -59,7 +59,7 @@ function Features() {
         </div>
 
         <div className="flex flex-wrap place-content-evenly pt-3 px-3 md:py-16 md:px-12 ">
-          <div className="flex flex-col mx-3 md:basis-1/4">
+          <div className="flex flex-col mx-3 md:mx-2 md:basis-1/4">
             <div className=" text-3xl md:text-5xl inline-flex  pb-2">
               Showcase your Metrics
             </div>
